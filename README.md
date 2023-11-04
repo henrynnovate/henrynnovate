@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @henrynnovate
 - 👀 I’m interested in Startups, Technology and Business
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently interested in Data Science, Machine Learning and Artificial Intelligence
 - 💞️ I’m looking to collaborate on Startups,Technological and Business Projects
 - 📫 How to reach me henrynnovate@gmail.com
 

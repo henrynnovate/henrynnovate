@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @henrynnovate
+- 👋 Hi, I’m Henry
 - 👀 I’m interested in Startups, Technology and Business
 - 🌱 I’m currently interested in Data Science, Machine Learning and Artificial Intelligence
 - 💞️ I’m looking to collaborate on Startups,Technological and Business Projects
